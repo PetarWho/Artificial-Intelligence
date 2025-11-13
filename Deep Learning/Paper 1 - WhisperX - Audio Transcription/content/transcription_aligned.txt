@@ -1,0 +1,28 @@
+[0.11 - 5.91]:  Cascading stylesheets, or CSS, is a stylesheet language famous for making websites look pretty.
+[6.11 - 10.60]: By default, a browser will render HTML as a boring black and white document.
+[10.88 - 18.98]: CSS allows you to describe the presentation of this markup by modifying the size, color, positioning, and layout of HTML elements.
+[19.16 - 21.10]: It was first released in 1996 and evolved into CSS3 by 1999.
+[24.45 - 31.13]:  The language continues to evolve to this day with new features, but there will never be a CSS4, just updates to the existing language.
+[31.29 - 36.69]: The typical CSS rule starts with a selector that can be matched to an element in the HTML document.
+[36.91 - 42.47]: You then use braces to create a declaration block that contain properties that change the appearance of that element.
+[42.71 - 47.32]:  This is known as a CSS rule, but the tricky thing is that style sheets cascade.
+[47.54 - 51.06]: A style sheet might contain multiple rules that apply to the same element.
+[51.20 - 55.86]: This creates a hierarchy, and rules that are more specific will overwrite the rules of their parents.
+[56.02 - 58.78]: In other words, the order of your CSS rules matter.
+[58.96 - 63.28]: In addition, some elements will inherit the styles of their parent, but others will not.
+[63.47 - 68.33]: Ultimately, the browser uses the concepts of cascade, specificity, and inheritance
+[68.51 - 70.75]:  to control which styles are applied to an element.
+[70.89 - 74.49]: To get started, open up a style tag in any HTML document.
+[74.65 - 82.16]: A selector can target all HTML elements of a certain type, multiple related elements with a custom class, or a single element with an ID.
+[82.42 - 85.18]: Now, think of every HTML element like a box.
+[85.40 - 89.05]: The content is in the middle, followed by padding, border, and a margin.
+[89.27 - 95.53]:  The amount of real estate used by every area in the box can be customized by defining properties like padding and margin.
+[95.77 - 102.62]: They can take explicit pixel values or responsive values that are relative to the parent element or a percentage of the viewport itself.
+[102.96 - 108.91]: Now these boxes will bump into each other to make up a web page, but you can use tools like FlexLayout and GridLayout
+[109.17 - 111.81]:  to control how they flow together in a sophisticated way.
+[112.03 - 115.57]: It can also detect user interaction with pseudo-selectors like Hover.
+[115.75 - 126.08]: CSS also makes it possible to add logic to your code with variables or custom properties and by making media queries that can apply styles conditionally based on the size or type of device.
+[126.40 - 130.33]:  and it can even handle complex animations with transitions and keyframes.
+[130.51 - 133.28]: This has been Cascading Style Sheets in 100 seconds.
+[133.44 - 136.55]: Hit the like button and subscribe if you want to see more short videos like this.
+[136.73 - 139.40]: Thanks for watching, and I will see you in the next one.
